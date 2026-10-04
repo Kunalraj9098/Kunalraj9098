@@ -4,9 +4,8 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
 💡 *“Crafting logic and elegance in every line of code.”*
 
 ---
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
             
 
 
@@ -26,12 +25,16 @@ I'm Kunalraj patidar, a 3rd-year Computer Science student and exploring Cloud co
     <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,replit,kubernetes,docker&theme=dark" />
   </a>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
 
 ### 🧩 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 
 ---
+
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
